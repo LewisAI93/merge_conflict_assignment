@@ -1,1 +1,1 @@
-#CGI
+# some assignment
